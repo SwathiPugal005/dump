@@ -1,0 +1,109 @@
+test automation - using qfaas farmework - qality framework as a service 
+selenium - java 
+page object model - page factory model
+method in seperate class - at findby xpath
+testNg - 
+reporting - testNG / html/ detailed report 
+apache maven - hirachy 
+data driven framework - excel handeling 
+any browser
+code - git repository 
+
+
+driver.findElement(by.xpath("//input[@type='']"))
+
+driver.findElement(By.xpatg("//input[contain(tetx(),'')"]))
+UFT - swf .net 
+
+
+pirabhu - google sap 
+
+
+//input[contains(@id,'Accenture')]
+Stem.setproperty("webdriver.chrome.drive","path");
+webdriver driver = new cromedriver();
+driver.navigate().to("");
+Webelement btnSubmit = driver.findelemnt(By.xpath("//input[test()='Submit']));
+btnSubmit.Click();
+String windowsHan = drivergetWindowHandle();
+Set<String> win = driver.getWindowHandles();
+Iterator<String> iter = win.iterator();
+driver.switchto().window();
+String heading = driver.findelemnt(By.xpath("//id[@name='heading'])).getText();
+
+
+
+if(heading.equals("Accenture"){
+file screenhot = ((takescreenshot)driver).getScreenshot(output.FILE);
+FileUtils.copyFile(screenshot, new file("path");
+
+
+
+}
+else{
+System.out.println("no such window exist")
+}
+driver.close();
+
+
+
+
+
+
+
+
+
+
+Webelement drp = driver.findelemnt(By.xpath("//id[test()='dropDown']));
+
+
+
+drp.click();
+
+
+reverse a string - string buffer
+str.reverse
+
+List<WebEleemnt> drpOpt = driver.findelements(by.xpath("//*[@name='drpOptions']"));
+
+
+
+int sizeDrp = drpOpt .size();
+for (int j=0;j<drpOpt.size(),j++){
+if (drpOpt.get(j).getText().equals("chennai")){
+drpOpt.get(j).click();}
+else ((drpOpt.get(j).getText().equals("hyderbad"){
+drpOpt.get(j).click();}
+}
+driver.close(
+
+
+encapsulation - binding of data nd code in single unit
+all classes in automation framework is encapsulation
+- pom is eg of it. weblemenr @find by when ever u want this webelememnt u can inistialize using constructir
+
+inherityance - extens
+extends the property from base class to child class. eg we write the report and wait all in class. we will extend this
+
+
+polymorphi - perform single action in diff ways
+ - method over loading - same method with diff parameter - implicit wait sec, hrs,
+- method over riding - if sub class has same method like that in parent class by changing the parameters then it is over riding. 
+
+abstraction 
+hiding the implementation and showing only relavent details
+eg- we write all the method in page class and call them only in test case. this is eg of abstraction
+
+
+1. enumeration
+2. upload a file
+3. delete cookies 
+final and finally 
+super keyword
+4,git cmmands - 
+robot framework
+
+
+
+
+Boa, NYL, Google, UHG, wlat disney, telecom
