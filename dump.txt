@@ -1,6 +1,6 @@
 test automation - using qfaas farmework - qality framework as a service 
 selenium - java 
-page object model - page factory model
+page object model - page factory model111
 method in seperate class - at findby xpath
 testNg - 
 reporting - testNG / html/ detailed report 
